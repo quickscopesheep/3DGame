@@ -1,0 +1,16 @@
+[
+  {
+    "type": "RendererComponent",
+    "class": "renderEngine.Entity.components.RendererComponent",
+    "properties": {
+      "renderable" : "res/renderables/testRect.renderable"
+    }
+  },
+  {
+    "type": "SpinComponent",
+    "class": "renderEngine.Entity.components.SpinComponent",
+    "properties": {
+      "speed": "0.5"
+    }
+  }
+]

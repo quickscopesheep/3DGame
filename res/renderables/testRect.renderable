@@ -1,0 +1,12 @@
+{
+  "Model" : "res/models/box.obj",
+  "VertexShader" : "res/shaders/baseVert.glsl",
+  "FragmentShader" : "res/shaders/baseFrag.glsl",
+  "Textures" : [
+    {
+      "path" : "res/textures/obsidianAlbedo.tif",
+      "slot" : 0,
+      "hasTransparency" : false
+    }
+  ]
+}
